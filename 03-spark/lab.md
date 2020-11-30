@@ -1,3 +1,3 @@
 Laboratorio Spark
 
-![](images/1.png)
+![](images/1.PNG)
