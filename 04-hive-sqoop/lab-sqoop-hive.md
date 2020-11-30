@@ -1,22 +1,21 @@
 # <div align='center'> Laboratorio sqoop y hive </div>
 
-## Traer los datos del dataset en s3
+## Crear Base de datos y tabla hdi
 ![](images/1.PNG)
 
-## Agregar columnas y eliminar columnas
 ![](images/2.PNG)
-
+## Select de la tabla hdi
 ![](images/3.PNG)
 
 ![](images/4.PNG)
 
-## Filtrar datos
+## Consultas sobre la tabla hdi
 ![](images/5.PNG)
 
-## Agrupación y conteo de datos
+## Join con tabla export-data
 ![](images/6.PNG)
 
-## Subir datos a s3
+## Wordcount en Hive
 ![](images/7.PNG)
 
 ![](images/8.PNG)
