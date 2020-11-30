@@ -19,3 +19,4 @@
 
 ## Subir datos a s3
 ![](images/7.PNG)
+![](images/8.PNG)
