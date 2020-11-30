@@ -18,6 +18,8 @@
 ## Wordcount en Hive
 ![](images/7.PNG)
 
+## SQOOP
+
 ![](images/8.PNG)
 
 ![](images/9.PNG)
@@ -31,6 +33,7 @@
 ![](images/13.PNG)
 
 ![](images/14.PNG)
+## MYSQL VS HIVE Average
 
 ![](images/15.PNG)
 
