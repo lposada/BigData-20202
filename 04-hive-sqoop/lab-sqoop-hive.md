@@ -18,9 +18,9 @@
 ## Wordcount en Hive
 ![](images/7.PNG)
 
-## SQOOP
-
 ![](images/8.PNG)
+
+## SQOOP
 
 ![](images/9.PNG)
 
