@@ -1,0 +1,1 @@
+# Laboratorio sqoop y hive
